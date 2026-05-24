@@ -19,5 +19,5 @@ All programs are simple, beginner-friendly, and runnable using Command Prompt.
 
 ## ▶ Run Programs <br>
 ```bash <br>
-javac FileName.java<br>
+javac FileName.java 
 java FileName
