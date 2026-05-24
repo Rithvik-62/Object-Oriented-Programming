@@ -16,7 +16,8 @@ The repository includes:<br>
 <br>
 All programs are simple, beginner-friendly, and runnable using Command Prompt.
 <br>
+
 ## ▶ Run Programs <br>
-```bash
-javac FileName.java
+```bash <br>
+javac FileName.java<br>
 java FileName
